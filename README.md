@@ -115,6 +115,7 @@ Generative AI & LLMs
 RAG & AI Agents
    ↓
 Cybersecurity
+---
 
 ## 📊 GitHub Stats
 
@@ -126,6 +127,8 @@ Cybersecurity
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargaDHajeri&theme=tokyonight" />
 </p>
 
+---
+
 ## 🎨 Beyond Coding
 
 When I'm not coding, I enjoy:
@@ -134,6 +137,7 @@ When I'm not coding, I enjoy:
 🎨 Drawing  
 📚 Reading books  
 💡 Exploring new ideas and technologies
+---
 
 ## 🤝 Let's Connect
 
@@ -147,3 +151,4 @@ When I'm not coding, I enjoy:
   </a>
   
 </p>
+---
